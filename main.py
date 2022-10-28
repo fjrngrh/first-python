@@ -1,5 +1,9 @@
 """
 ini adalah demo project dengan python
 """
-print("hello world")
-print("nama fajar")
+print ('ibu berkata "pergi ke toko" ')
+print('budi menjawab, "beli apa?"')
+print('ibu , "beli apa?"')
+print('budi menjawab, "beli apa?"')
+
+# Percabangan
