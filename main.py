@@ -28,7 +28,7 @@ print("budi menyerahkan hasil ke ibu")
 
 # Perulangan for
 """ 
-perulanga membaca bukumu
+perulangan membaca bukumu
 """
 
 jmlhbuku = 100
@@ -56,7 +56,7 @@ print(f'jumlah buku yg sudah dibaca {jmlhbukuygsudahdibaca1}')
 Program perulangan membaca buku dengan while sampai paham
 """
 buku = 10
-print('Ibu berkata, "Baca semua bukumu')
+print('Ibu berkata, "Baca semua bukumu sampai paham')
 dibaca = 0
 dipahami = 0
 print (f'Jumlah buku yang sudah dibaca dan dipahami {dipahami}')
