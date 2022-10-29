@@ -75,3 +75,5 @@ if dipahami ==buku:
 else:
     print(f"bu tidak semua buku bisa dipahami."
           f"budi hanya bisa pahami {dipahami} buku")
+
+
