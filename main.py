@@ -64,13 +64,13 @@ print (f'Jumlah buku yang sudah dibaca dan dipahami {dipahami}')
 while dibaca < buku * 2:
     dibaca = dibaca + 1
     if dipahami == 9:
-        print(f"Buku ke {dipahami + 1} paham")
+        print(f"Buku ke { dipahami + 1} belum paham")
     else:
         dipahami = dipahami + 1
         print(f"Buku ke {dipahami} sudah dibaca dan dipahami")
 
 print (f'Jumlah buku yang sudah dibaca dan dipahami {dipahami}')
-if dipahami ==buku:
+if dipahami == buku:
     print('bu semua buku sudah dibaca dan dipahami ')
 else:
     print(f"bu tidak semua buku bisa dipahami."
